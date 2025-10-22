@@ -36,3 +36,15 @@ Path of Ascent is a 3D platformer adventure with vertical climbing and physics-b
 6. **Slopes/slippery surfaces** → extra challenge.
 - **CheckPoint**: Few checkpoints (every 1–2 zones) → balanced difficulty.[decide later acc. to game feel]
 - **Level Flow:** The climb has rising tension → player feels nervous the higher they go.Each zone gives a sense of atmosphere (different props/colors).Visual cues help players know they’re progressing (new objects, lighting shifts).
+
+# 5. Art & Visual Style
+
+- **Direction**: Low-poly, stylized, surreal.
+- **Colors**: Neutral tones for base.
+- **Environment**: Floating junk, crates, pipes, candies, industrial objects, surreal ruins.
+- **Player**: Simple humanoid/figure, readable silhouette.
+
+# 6. Audio
+
+- **Music**: Calm, ambient, slightly mysterious.
+- **SFX**: Jump, land, fall wind, footsteps.
