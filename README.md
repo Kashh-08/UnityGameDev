@@ -48,3 +48,28 @@ Path of Ascent is a 3D platformer adventure with vertical climbing and physics-b
 
 - **Music**: Calm, ambient, slightly mysterious.
 - **SFX**: Jump, land, fall wind, footsteps.
+
+# 7. UI/UX
+
+- **Main Menu**:
+1. Options: *Play / Quit*
+2. Quote: *“Every journey begins with a single step… but where does it end?”*
+- **HUD**:
+1. Elements: Height counter, optional timer.
+2. Quote (small text at corner): *“The higher you go, the more you see.”*
+- **Pause Menu**:
+1. Options: *Resume / Restart / Quit*
+2. Quote: *“Even stillness is part of the climb.”*
+- **Game Over**:
+1. Text: *“You fell! Try again?”*
+2. Quote: *“Falling teaches you where to rise again.”*
+- **Win Screen**:
+1. Minimal message: *“You made it.”*
+2. Quote: *“But was this the top… or just another beginning?”*
+
+# 8. Technical Details
+
+- **Engine**: Unity
+- **Language**: C#
+- **Target FPS**: 60+
+- **Builds**: PC
