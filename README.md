@@ -73,3 +73,9 @@ Path of Ascent is a 3D platformer adventure with vertical climbing and physics-b
 - **Language**: C#
 - **Target FPS**: 60+
 - **Builds**: PC
+
+# 9. Inspiration & References
+
+- Only Up, Getting over it, Roblox lobby of only up
+- **Art Style:** Low poly surreal world.
+- **Moodboard**: Floating junkyard, candyland, industrial ruins, dreamlike skies.
